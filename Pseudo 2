@@ -1,0 +1,17 @@
+Start
+Input A
+Input B
+Input C
+ Set Sum to 0
+
+ For each number from 1 to A:
+    Increment Sum by 1
+
+For each number from 1 to B:
+    Increment Sum by 1
+
+For each number from 1 to C:
+    Increment Sum by 1
+
+ Output Sum
+ End
