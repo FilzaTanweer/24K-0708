@@ -1,0 +1,17 @@
+Start
+Input Num1
+Input Num2
+Input Num3
+
+If Num1 > Num2 AND Num1 > Num3
+  PRINT "Num1 is the Largest"
+ELSE 
+   Num2 > Num1 AND Num2 > Num3
+  PRINT "Num2 is the Largest"
+ELSE
+  Num3 > Num1 AND Num3 > Num2
+ PRINT "Num3 is the Largest"
+ELSE
+  Num1==Num2==Num3
+ PRINT "All are equal"
+END
