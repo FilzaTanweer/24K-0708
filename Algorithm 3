@@ -1,0 +1,19 @@
+Start
+Display " Simple Calculator "
+Ask the user to enter first value 
+Input FirstNum
+Ask the user to enter second value 
+Input SecondNum 
+Ask the user to enter the operator (+, -,*, /, %)
+If Operator is "+" then SET Result = FirstNum + SecondNum
+   ELSE If Operator is "-" then SET Result = FirstNum - SecondNum
+   ELSE If Operator is "*" then SET Result = FirstNum * SecondNum
+   ELSE If Operator is "/" then : If SecondNum is not 0 then 
+     SET Result = FirstNum/SecondNum
+   ELSE Display " Zero cannot be in the denominator"
+   ELSE Display " Invalid response, Re-enter"
+ SET Result to undefined
+PRINT "Result is undefined"
+PRINT Result
+end if 
+End 
