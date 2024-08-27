@@ -1,4 +1,6 @@
 # 24K-0708
+## ABOUT ME
+
 - I am Filza Tanweer. I completed my O-Levels and pursued A-Levels from Alpha College. Currently, I am studying Computer Science at FAST University, where I am eager to deepen my knowledge in the field and develop the skills necessary for a successful career in technology.
 + Creative and dedicated Social Media Graphic Designer with a flair for
  innovative design and a strong work ethic. Skilled in Adobe Photoshop,
