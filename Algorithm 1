@@ -1,0 +1,13 @@
+Ask the user to enter Nth.
+Ask the user to enter n.
+Set Result to (n % Nth).
+If Result == 0:
+PRINT "Divisible".
+Set Parity to (n / Nth) % 2.
+If Parity == 0:
+PRINT "It is even".
+Else:
+PRINT "It is odd".
+Else:
+PRINT "Not divisible".
+End.
