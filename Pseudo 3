@@ -1,0 +1,13 @@
+# QUESTION 3 
+Start 
+PRINT " Hello! Lets do Math "
+A = input "Enter the first value:"
+B = input "Enter the second value:"
+Operator = input "Select + or - :"
+If Operator is equal to "+" then:
+  Result = A + B 
+ELSE 
+  Resut = A - B 
+End if 
+PRINT "The Result is:" , Result
+End 
