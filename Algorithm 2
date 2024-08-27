@@ -1,0 +1,22 @@
+Start
+Display "Enter a number (1-12) to get the corresponding month:"
+Read MonthNumber
+Set MonthName to "Invalid"
+If MonthNumber equals 1 then:Set MonthName to "January"
+Else if MonthNum equals 2 then:Set MonthName to "February"
+Else if MonthNum equals 3 then:Set MonthName to "March"
+Else if MonthNum equals 4 then:Set MonthName to "April"
+Else if MonthNum equals 5 then:Set MonthName to "May"
+Else if MonthNum equals 6 then:Set MonthName to "June"
+Else if MonthNum equals 7 then:Set MonthName to "July"
+Else if MonthNum equals 8 then:Set MonthName to "August"
+Else if MonthNum equals 9 then:Set MonthName to "September"
+Else if MonthNum equals 10 then:Set MonthName to "October"
+Else if MonthNum equals 11 then:Set MonthName to "November"
+Else if MonthNum equals 12 then:Set MonthName to "December"
+If MonthName equals "Invalid" then:
+Display " Re-Enter a valid Number."
+Else:
+Display "The month is: ", MonthName
+End if
+End
