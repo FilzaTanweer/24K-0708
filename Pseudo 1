@@ -3,7 +3,6 @@ Start
 Input Num1
 Input Num2
 Input Num3
-
 If Num1 > Num2 AND Num1 > Num3
   PRINT "Num1 is the Largest"
 ELSE 
